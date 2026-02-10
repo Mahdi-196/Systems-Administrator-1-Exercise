@@ -4,8 +4,7 @@ A dual-platform infrastructure deployment exercise covering Ubuntu Server and Wi
 
 ## Youtube DEMO
 
-[![Watch the video](https://www.youtube.com/watch?v=lDOxP8dxwtE)
-
+[![Watch the video](https://img.youtube.com/vi/lDOxP8dxwtE/0.jpg)](https://www.youtube.com/watch?v=lDOxP8dxwtE)
 ## Documentation
 
 [Full SOP Guide](Documentation/System_Admin_Exercise_SOP.md)
