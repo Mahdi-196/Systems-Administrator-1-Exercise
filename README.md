@@ -4,7 +4,7 @@ A dual-platform infrastructure deployment exercise covering Ubuntu Server and Wi
 
 ## Youtube DEMO
 
-[![Watch the video](https://youtu.be/lDOxP8dxwtE)
+[![Watch the video](https://www.youtube.com/watch?v=lDOxP8dxwtE)
 
 ## Documentation
 
