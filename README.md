@@ -1,10 +1,10 @@
-# Systems Administrator 1 Exercise
+# Hybrid lab
 
 A dual-platform infrastructure deployment exercise covering Ubuntu Server and Windows Server 2022 with Active Directory.
 
 ## Youtube DEMO
 
-[![Watch the video](https://img.youtube.com/vi/fV7iyKA0s94/0.jpg)](https://youtu.be/fV7iyKA0s94)
+[![Watch the video](https://youtu.be/lDOxP8dxwtE)
 
 ## Documentation
 
